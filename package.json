@@ -1,0 +1,16 @@
+{
+  "name": "superjs-ses",
+  "author": {
+    "name": "Aaron Storck",
+    "email": "aaronstorck@gmail.com"
+  },
+  "version": "0.8.0",
+  "description": "Amazon SES Service class for the SuperJS Framework.",
+  "main": "index.js",
+  "repository": "https://github.com/asleepinglion/superjs-ses",
+  "dependencies": {
+    "superjs": "*",
+    "node-ses": "*"
+  },
+  "license": "MIT"
+}
