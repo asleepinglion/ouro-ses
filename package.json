@@ -1,15 +1,15 @@
 {
-  "name": "superjs-ses",
+  "name": "ouro-ses",
   "author": {
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.0",
-  "description": "Amazon SES Service class for the SuperJS Framework.",
+  "version": "0.9.0",
+  "description": "Amazon SES Service class for the Ouro Framework.",
   "main": "index.js",
-  "repository": "https://github.com/asleepinglion/superjs-ses",
+  "repository": "https://github.com/asleepinglion/ouro-ses",
   "dependencies": {
-    "superjs": "*",
+    "ouro": "*",
     "node-ses": "*"
   },
   "license": "MIT"
